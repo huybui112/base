@@ -1,8 +1,3 @@
-.grid {
-    width: 1200px;
-    max-width: 100%;
-    margin: 0 auto;
-}
 
 *,
 *::before,
@@ -44,6 +39,7 @@ body {
     border-image-slice: 1;
     display: flex;
     justify-content: space-around;
+    align-items: center;
 }
 
 .head-1-1 {
@@ -132,7 +128,47 @@ body {
     color: #F5F5F5;
 
 }
-
+.head-1-1-2-4{
+    width: 109px;
+    height: 38px;
+    padding: 12px 0px 12px 0px;
+    gap: 4px;
+    opacity: 0px;
+    font-family: Public Sans, sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 14px;
+    text-align: center;
+    color: rgba(245, 245, 245, 1);
+    
+}
+.head-1-1-2-5{
+    width: 76px;
+    height: 38px;
+    padding: 12px 0px 12px 0px;
+    gap: 4px;
+    opacity: 0px;
+    font-family: Public Sans, sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 14px;
+    text-align: center;
+    color: rgba(245, 245, 245, 1);
+    
+}
+.head-1-1-2-6{
+    width: 48px;
+    height: 38px;
+    padding: 12px 0px 12px 0px;
+    gap: 4px;
+    opacity: 0px;
+    font-family: Public Sans, sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 14px;
+    text-align: center;
+    color: rgba(245, 245, 245, 1);
+}
 .head-img {
     width: 13px;
     height: 10px;
@@ -155,8 +191,37 @@ body {
     height: 40px;
     gap: 24px;
     opacity: 0px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 30px;
 }
+.content-head-1-2-2{
+    width: 14px;
+    height: 14px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Public Sans,sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 14px;
+    text-align: center;
+    color: rgba(245, 245, 245, 1);
 
+}
+.content-head-1-2-3 {
+    width: 91px;
+    height: 14px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Public Sans;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 14px;
+    text-align: center;
+    color: rgba(245, 245, 245, 1);
+
+}
 .head-1-1-2-2 {
     width: 68px;
     height: 40px;
@@ -176,38 +241,36 @@ body {
     display: flex;
     justify-content: space-between;
 }
-
-.navbar {
+.head-1-2-1{
+    width: 40px;
+    height: 40px;
+    gap: 4px;
+    opacity: 0px;
     display: flex;
-    justify-content: space-between;
-}
-
-.navbar-list-1 {
-    padding-left: 0;
-    display: flex;
-    justify-content: space-around;
-    list-style: none;
-    flex: 4;
-}
-
-.navbar-list-2 {
-    padding-left: 0;
-    display: flex;
-    justify-content: space-around;
-    list-style: none;
-    flex: 1;
-}
-
-.navbar-items {
-    height: 14px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-weight: 500;
-    font-size: 14px;
-    line-height: 14px;
     align-items: center;
-    color: #F5F5F5;
 
 }
+.head-1-2-2{
+    width: 62px;
+    height: 40px;
+    gap: 8px;
+    opacity: 0px;
+    display: flex;
+    align-items: center;
+    
+}
+.head-1-2-3{
+    width: 147px;
+    height: 40px;
+    padding: 8px 12px 8px 12px;
+    gap: 8px;
+    border-radius: 50px 0px 0px 0px;
+    opacity: 0px;
+    display: flex;
+    align-items: center;
+}
+
+
 
 .container {
     display: flex;
